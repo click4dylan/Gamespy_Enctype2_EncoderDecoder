@@ -1,0 +1,16 @@
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.Resources.resources
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.vbproj.GenerateResource.Cache
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\bin\Debug\Enctype2_EncoderDecoder.exe
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\bin\Debug\Enctype2_EncoderDecoder.pdb
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\bin\Debug\Enctype2_EncoderDecoder.xml
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.exe
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.xml
+C:\Users\Dylan\AppData\Local\Temporary Projects\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.pdb
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.exe
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.xml
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.pdb
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\bin\Debug\Enctype2_EncoderDecoder.exe
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\bin\Debug\Enctype2_EncoderDecoder.pdb
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\bin\Debug\Enctype2_EncoderDecoder.xml
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.Resources.resources
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Debug\Enctype2_EncoderDecoder.vbproj.GenerateResource.Cache

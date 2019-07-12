@@ -1,0 +1,8 @@
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\bin\Release\Enctype2_EncoderDecoder.exe
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\bin\Release\Enctype2_EncoderDecoder.pdb
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\bin\Release\Enctype2_EncoderDecoder.xml
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Release\Enctype2_EncoderDecoder.Resources.resources
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Release\Enctype2_EncoderDecoder.vbproj.GenerateResource.Cache
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Release\Enctype2_EncoderDecoder.exe
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Release\Enctype2_EncoderDecoder.xml
+I:\visual studio 2012\Enctype2_EncoderDecoder\Enctype2_EncoderDecoder\obj\x86\Release\Enctype2_EncoderDecoder.pdb
